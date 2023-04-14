@@ -1,2 +1,3 @@
 # Formulário de Cadastro com Validações em JavaScript
-![Tela-cadastro](https://user-images.githubusercontent.com/85531165/232047171-43f7295e-70af-4add-a9d9-dc0282cf1fc0.png)
+
+![Tela-cadastro](https://user-images.githubusercontent.com/85531165/232048522-0cc81843-4dd4-4d3a-b6a5-573e84a9f369.png)
